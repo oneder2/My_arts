@@ -1,0 +1,10 @@
+{
+    "Name": "My_DIY_beautify_mod",
+    "Author": "Qintarsah",
+    "Version": "1.0.0",
+    "Description": "replaced all potraits of Leah",
+    "UniqueID": "Qintarsah.My_DIY_beautify_mod",
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

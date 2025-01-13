@@ -1,0 +1,20 @@
+{
+    "Format": "2.5.0",
+    "Changes": [
+        {
+            "Action": "Load",
+            "Target": "Portraits/Leah",
+            "FromFile": "assets/Leah.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Portraits/Leah_Beach",
+            "FromFile": "assets/Leah_Beach.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Portraits/Leah_Winter",
+            "FromFile": "assets/Leah_Winter.png"
+        },
+    ]
+}
